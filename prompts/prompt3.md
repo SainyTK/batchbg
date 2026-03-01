@@ -1,0 +1,1 @@
+I tested uploading png files with transparent background, but the current application fills the transparent background with black color. Please make sure that transparent background remains transparent so that we can see background image behind it.
