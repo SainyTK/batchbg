@@ -22,7 +22,7 @@ export function TopBar() {
 
   return (
     <div className="flex h-12 shrink-0 items-center justify-between border-b border-border px-4">
-      <h1 className="text-sm font-semibold">BatchBG</h1>
+      <h1 className="font-[family-name:var(--font-space-grotesk)] text-base font-bold tracking-tight text-primary">BatchBG</h1>
       <div className="flex items-center gap-2">
         <Button
           variant="ghost"
