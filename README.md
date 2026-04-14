@@ -1,5 +1,7 @@
 # BatchBG
 
+Try it live: https://batchbg.vercel.app/
+
 A web app for adding beautiful backgrounds to your screenshots in batch. Upload your screenshots, pick a background, adjust settings, and export them all at once.
 
 Think of it as the background feature from Screen Studio, but for any screenshot.
